@@ -1059,7 +1059,7 @@ if __name__ == "__main__":
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     print(timestamp)
     op = []
-    alphas = np.arange(0.1, 1.1, 0.1)  # Generate values from 0.1 to 2.0 with step 0.1
+    alphas = np.arange(2.0, 1.3, -0.1)  # Generate values from 0.1 to 2.0 with step 0.1
     alphas = np.round(alphas * 10) / 10  # Round the values to the nearest 0.1
     folder_name = 'partial_data2'
     os.makedirs(folder_name, exist_ok=True)
