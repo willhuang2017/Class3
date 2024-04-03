@@ -1,0 +1,52 @@
+[
+    {
+        "bot_number": 8,
+        "k": 7,
+        "alpha": 1.9,
+        "success": 19,
+        "failed": 19,
+        "survive": 12,
+        "moves_in_rescue": 8620,
+        "num_crew_saved": 56
+    },
+    {
+        "bot_number": 8,
+        "k": 7,
+        "alpha": 2.0,
+        "success": 19,
+        "failed": 22,
+        "survive": 9,
+        "moves_in_rescue": 6691,
+        "num_crew_saved": 56
+    },
+    {
+        "bot_number": 8,
+        "k": 7,
+        "alpha": 1.8,
+        "success": 17,
+        "failed": 22,
+        "survive": 11,
+        "moves_in_rescue": 5521,
+        "num_crew_saved": 56
+    },
+    {
+        "bot_number": 7,
+        "k": 7,
+        "alpha": 1.8,
+        "success": 6,
+        "failed": 25,
+        "survive": 19,
+        "moves_in_rescue": 3402,
+        "num_crew_saved": 26
+    },
+    {
+        "bot_number": 7,
+        "k": 7,
+        "alpha": 1.9,
+        "success": 4,
+        "failed": 26,
+        "survive": 20,
+        "moves_in_rescue": 2144,
+        "num_crew_saved": 17
+    }
+]

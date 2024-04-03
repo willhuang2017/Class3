@@ -1,0 +1,12 @@
+[
+    {
+        "bot_number": 8,
+        "k": 7,
+        "alpha": 1.9,
+        "success": 19,
+        "failed": 19,
+        "survive": 12,
+        "moves_in_rescue": 8620,
+        "num_crew_saved": 56
+    }
+]
